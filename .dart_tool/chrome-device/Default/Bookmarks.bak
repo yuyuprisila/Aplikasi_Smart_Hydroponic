@@ -1,0 +1,173 @@
+{
+   "checksum": "879695869d091b40c45b012f6077f895",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13327673654442411",
+               "date_last_used": "0",
+               "guid": "bc03d125-2800-4b5d-9ee6-b54674c52f39",
+               "id": "18",
+               "name": "Acer",
+               "show_icon": false,
+               "source": "import_fre",
+               "type": "url",
+               "url": "http://www.acer.com/"
+            } ],
+            "date_added": "13342958787723207",
+            "date_last_used": "0",
+            "date_modified": "13342959067944587",
+            "guid": "1b8afb76-0a79-4cab-979c-1949ebf68ac7",
+            "id": "17",
+            "name": "Acer",
+            "source": "import_fre",
+            "type": "folder"
+         }, {
+            "date_added": "13339641812048766",
+            "date_last_used": "0",
+            "guid": "cd564259-390b-4e86-9c32-2ccfcb7739f3",
+            "id": "19",
+            "name": "Elearning Institut Teknologi Nasional: Log in to the site",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://elearning.itenas.ac.id/login/index.php"
+         }, {
+            "date_added": "13339707345514252",
+            "date_last_used": "0",
+            "guid": "a3d52965-9f2a-475f-8c25-31ea75c11eb0",
+            "id": "20",
+            "name": "MNM000 – Form Login MNM000 – Form Login Mahasiswa",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://mahasiswa.itenas.ac.id/mahasiswa/MNM000"
+         }, {
+            "date_added": "13339881979809180",
+            "date_last_used": "0",
+            "guid": "7b98dda9-f97a-4f21-bb8b-1ef169b237b7",
+            "id": "21",
+            "name": "Course: Computer Vision",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://lmsspada.kemdikbud.go.id/course/view.php?id=3721"
+         }, {
+            "date_added": "13340659275728100",
+            "date_last_used": "0",
+            "guid": "772a4f50-a014-4ce6-86bc-caff4dcdd55c",
+            "id": "22",
+            "name": "sign-up-page-freebie-c7.jpg (800×600)",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://cdn.psdrepo.com/images/2x/sign-up-page-freebie-c7.jpg"
+         }, {
+            "date_added": "13340760981470112",
+            "date_last_used": "13341512863558313",
+            "guid": "e0e795c2-cc65-4731-bc28-c311be95ed0c",
+            "id": "23",
+            "name": "Stream",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://classroom.google.com/u/1/c/NjIzOTYxNjk5MTY2"
+         }, {
+            "date_added": "13340777222311157",
+            "date_last_used": "0",
+            "guid": "be798cca-43a5-41f8-a431-4e4cd1c03c11",
+            "id": "24",
+            "name": "Wokwi - Online ESP32, STM32, Arduino Simulator",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://wokwi.com/"
+         }, {
+            "date_added": "13341838431796404",
+            "date_last_used": "0",
+            "guid": "76aa4301-b4c8-48bf-a4e5-4584e0fa04e7",
+            "id": "25",
+            "name": "icon flutter",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://fonts.google.com/icons?icon.query=control"
+         }, {
+            "date_added": "13342251893525331",
+            "date_last_used": "0",
+            "guid": "c8b4aa75-f07f-4dc7-b307-8118896b5222",
+            "id": "26",
+            "name": "Flutter Component Library",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://fluttercomponentlibrary.com/"
+         }, {
+            "date_added": "13342664562958403",
+            "date_last_used": "0",
+            "guid": "2005a2e7-d951-46d1-8084-48d5a8ab54f6",
+            "id": "27",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Deep Learning for Batik Classification in Python with CNN | by Cendekia Luthfieta NZ | Medium",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://medium.com/@cendekialnazalia/deep-learning-for-batik-classification-in-python-with-cnn-7bd3eb76f22"
+         }, {
+            "date_added": "13342958784480571",
+            "date_last_used": "0",
+            "guid": "0241fbae-cd66-41a6-b18b-8e01bdbb1bf7",
+            "id": "8",
+            "name": "Agoda",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://s3.amazonaws.com/amundsen/redirect/19q2/agoda.html?utm_source=win32&utm_medium=favorite"
+         }, {
+            "date_added": "13342958784474560",
+            "date_last_used": "0",
+            "guid": "075e68d3-8aca-41a5-8298-ceacf4aa5050",
+            "id": "7",
+            "name": "Amazon",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://s3.amazonaws.com/amundsen/redirect/19q2/amazon.html?utm_source=win32&utm_medium=favorite"
+         } ],
+         "date_added": "13342958784249629",
+         "date_last_used": "0",
+         "date_modified": "13342959067942726",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13342958784249630",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13342958784249631",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCFyJoHWLAQAAEgAgASoYbTdncFBkS3FsdFp0RjRQRVp4R3pOUT09oAYMEqkBCBsSpAEKHFI2TjJEZ3pWN1dUMWxRVEdxNUlCTUpPZ2N4WT0SJDIwMDVhMmU3LWQ5NTEtNDZkMS04MDg0LTQ4ZDVhOGFiNTRmNhgAIAIoAjDJo/6stzE4jr+7obYxQLP2/ay3MUocZGx6M3Zac1FNdWlLc0RvTG1vcXRNeUpSV3JnPVogIh7/3m9kRUYxQUhqZ0lNNENiaHJsN1B3N2wybXRnRT1lW4VDYxKpAQgaEqQBChxjWStHNkZhdTlzMkN4OUY1cUxUUlRWWmhzcFk9EiRjOGI0YWE3NS1mMDdmLTRkYzctYjMwNy04MTE4ODk2YjUyMjIYACACKAIwxaP+rLcxOJ3N49u0MUCz9v2stzFKHE1HUWM5ZEpFMm1oVmExbVFTMzBnci9wVjAydz1aICIe/7xIT05DdGoxUW5pQWczSFFHaHNZa0F5dDhHN1U9ZR4fRFYSqAEIGRKjAQocZHpNcGFCdnJERVpqRkVkcFJTYWpJR1A5TU9nPRIkNzZhYTQzMDEtYjRjOC00OGJmLWE0ZTUtNDU4NGUwZmEwNGU3GAAgAigCMMij/qy3MTiJ6s+WszFAs/b9rLcxShxVLy9QS3JvOGttS29KaElJVnFGbnErODRIL3c9Wh8iHf95TmtCcjVDc1VjcGxpOUZGYmNVMitpNXVNZkk9ZQdoU5sSqAEIFxKjAQoca2s0VmRUWUd2TmtRSjhua0Rsa0tyUzV5ZnhNPRIkZTBlNzk1YzItY2M2NS00NzMxLWJjMjgtYzMxMWJlOTVlZDBjGAAgAigCMMaj/qy3MTjXsu2UrzFAsvb9rLcxShxZdjNObUcyRWk2WlhUOGV5WEVycXU0c0NLM1U9Wh8iHf9CaFdOeTdsTXlrVDRFcTdNWmozS3B5ZUNJUTQ9ZQtRbGcSqAEIFhKjAQocd1hRRUFXZEk2OUVWVFp5TGtxNFRmMXA5VWhZPRIkNzcyYTRmNTAtYTAxNC00Y2U2LTg2YmMtY2FmZjRkY2RkNTVjGAAgACgAMP/rreSuMTif7a3krjFAn+2t5K4xShxjdklmT2ZmNC81eWh1bEtPNUdhNkNmdnhnTmc9Wh8iHf43NGY1ZzNMMHo3SUp6aWVDN3lEUDQySnQ3OGs9ZQAAAAASqAEIFRKjAQocNEdMYVNiZXpZODVpZ1VyUUNCM3lvVzFjMlFNPRIkN2I5OGRkYTktZjk3YS00ZjIxLWJiOGItMWVmMTY5YjIzN2I3GAAgAigCMMSj/qy3MTjrr9vxqzFAsvb9rLcxShxZTU5yRjlaa3Z3VmdoeDUyWlpOczM4TkltL1k9Wh8iHe1uajdUUmZ2Y1hqdVloYXpyTDc3cVU1dlFCOGM9ZdtpE+ASqAEIExKjAQocOUgyL1NUZWVEWkd3SEhVZ0gzSWVLVjltclN3PRIkY2Q1NjQyNTktMzkwYi00ZTg2LTljMzItMmNjZmNiNzczOWYzGAAgACgAMLDkmP+qMTiv6Jj/qjFAr+iY/6oxShx2NVdHMnVBUEVsTFN1NlRQczlmKzhPcllGZTg9Wh8iHbdWbUNKWG5TNGRGQVNlaDNCanpLZ1NOSVE2UFk9ZQAAAAASpwEIEhKiAQocQUIrOVJjTkxsc0ZLYlhKUEt6MnE4RHlkSm5jPRIkYmMwM2QxMjUtMjgwMC00YjVkLTllZTYtYjU0Njc0YzUyZjM5GAAgACgAMLnrhNCaMTiO8ITQmjFAjvCE0JoxShxNUCtDWkJxU1BIUXp6RVE4RmUzVnpQblJyb0E9Wh4iHHdSMlBmcWdNdEpULzQ3dXowaWRQZitHQjlmOD1lAAAAABKoAQgUEqMBChxRbmhYZ041Wk00elVMM1c5cjVodDY2dW5rejA9EiRhM2Q1Mjk2NS05ZjJhLTQ3NWYtOGMyNS0zMWVhNzVjMTFlYjAYACACKAIwx6P+rLcxOJzTuJ6rMUCx9v2stzFKHFhUelJEQmwrZXVqZGxEc0E5VnlUbkdSUFAvcz1aHyId21FGeGo5azJoU2hVM2trWXVUckptdXlHM2gvcz1lXao0IhKnAQgREqIBChw5cjhsRjBJRUk0RkZ3cEVGcitaMnROOFVkdTA9EiQxYjhhZmI3Ni0wYTc5LTRjYWItOTc5Yy0xOTQ5ZWJmNjhhYzcYACAAKAAwuOuE0JoxOPfvhNCaMUD374TQmjFKHDJYbkF2SzZZR1ZEdGZDdm9TVmZmRGVFRDJiQT1aHiIcb3NkUTJWMTlRUDNaaTJ4QkJDN0wzakFqb0VrPWUAAAAAEqgBCBgSowEKHHlsNE9FR0R6TGpRLzZwRFYxaHViUnc5TTlEdz0SJGJlNzk4Y2NhLTQzYTUtNDFmOC1hNDMxLTRlNGNkMWMwM2MxMRgAIAIoAjDDo/6stzE419PMnK8xQLL2/ay3MUocM3ZkTHlVVFJCdENsQkNWWHVHMzNtVlltcHBFPVofIh3/a1RoZG5UT2dmSDJaV3BtVXZKWkV6NDFHS2lNPWUtXjNxEokBCAEShAEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0SJDYxMDg4M2YzLTVkZDEtNTA4YS04YTIzLTg1NGViMTM0M2YyNxgAIAAoADC00s6z/jA40NTOs/4wQNDUzrP+MEocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAAASiQEIAhKEAQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRIkZGVmMWUxMTEtOGVlYi01MjYzLWFhMzQtNzJkMTVhNzFkMDdhGAAgACgAMLXSzrP+MDjt1M6z/jBA7dTOs/4wShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAABKJAQgDEoQBChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EiRiNmU4NjcwZi00MTc5LTU5ZWItYmRiMi1hMGY5MzdkMTc4NDkYACAAKAAwutLOs/4wOPHVzrP+MEDx1c6z/jBKHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAMAA4AA==",
+   "version": 1
+}

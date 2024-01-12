@@ -1,0 +1,12 @@
+com.example.pemrograman_mobile.app-jetified-window-1.0.0-beta04-0 C:\Users\Yuren\.gradle\caches\transforms-3\4a519d8241f18425848ee2eb361f7e88\transformed\jetified-window-1.0.0-beta04\res
+com.example.pemrograman_mobile.app-jetified-annotation-experimental-1.1.0-1 C:\Users\Yuren\.gradle\caches\transforms-3\58eee7595de58f7e443e1f4592934861\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.pemrograman_mobile.app-jetified-window-java-1.0.0-beta04-2 C:\Users\Yuren\.gradle\caches\transforms-3\5d1d5115b2c1deea26c991b2200490a5\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.pemrograman_mobile.app-core-1.6.0-3 C:\Users\Yuren\.gradle\caches\transforms-3\c0c55a33fdc5046d771f9988de5ec071\transformed\core-1.6.0\res
+com.example.pemrograman_mobile.app-debug-4 D:\asus\Kuliah_Yuren\semester5\pem_Mobile\prak_IOT-revisi - Copy\prak_IOT\android\app\src\debug\res
+com.example.pemrograman_mobile.app-main-5 D:\asus\Kuliah_Yuren\semester5\pem_Mobile\prak_IOT-revisi - Copy\prak_IOT\android\app\src\main\res
+com.example.pemrograman_mobile.app-pngs-6 D:\asus\Kuliah_Yuren\semester5\pem_Mobile\prak_IOT-revisi - Copy\prak_IOT\build\app\generated\res\pngs\debug
+com.example.pemrograman_mobile.app-resValues-7 D:\asus\Kuliah_Yuren\semester5\pem_Mobile\prak_IOT-revisi - Copy\prak_IOT\build\app\generated\res\resValues\debug
+com.example.pemrograman_mobile.app-rs-8 D:\asus\Kuliah_Yuren\semester5\pem_Mobile\prak_IOT-revisi - Copy\prak_IOT\build\app\generated\res\rs\debug
+com.example.pemrograman_mobile.app-mergeDebugResources-9 D:\asus\Kuliah_Yuren\semester5\pem_Mobile\prak_IOT-revisi - Copy\prak_IOT\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.pemrograman_mobile.app-mergeDebugResources-10 D:\asus\Kuliah_Yuren\semester5\pem_Mobile\prak_IOT-revisi - Copy\prak_IOT\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.pemrograman_mobile.app-merged_res-11 D:\asus\Kuliah_Yuren\semester5\pem_Mobile\prak_IOT-revisi - Copy\prak_IOT\build\app\intermediates\merged_res\debug

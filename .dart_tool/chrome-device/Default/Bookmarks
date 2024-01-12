@@ -1,0 +1,293 @@
+{
+   "checksum": "8bd6082615bd0631d2baf186c43483ca",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13327673654442411",
+               "date_last_used": "0",
+               "guid": "bc03d125-2800-4b5d-9ee6-b54674c52f39",
+               "id": "18",
+               "name": "Acer",
+               "show_icon": false,
+               "source": "import_fre",
+               "type": "url",
+               "url": "http://www.acer.com/"
+            } ],
+            "date_added": "13342958787723207",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "1b8afb76-0a79-4cab-979c-1949ebf68ac7",
+            "id": "17",
+            "name": "Acer",
+            "source": "import_fre",
+            "type": "folder"
+         }, {
+            "date_added": "13339641812048766",
+            "date_last_used": "0",
+            "guid": "cd564259-390b-4e86-9c32-2ccfcb7739f3",
+            "id": "19",
+            "name": "Elearning Institut Teknologi Nasional: Log in to the site",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://elearning.itenas.ac.id/login/index.php"
+         }, {
+            "date_added": "13339707345514252",
+            "date_last_used": "0",
+            "guid": "a3d52965-9f2a-475f-8c25-31ea75c11eb0",
+            "id": "20",
+            "name": "MNM000 – Form Login MNM000 – Form Login Mahasiswa",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://mahasiswa.itenas.ac.id/mahasiswa/MNM000"
+         }, {
+            "date_added": "13339881979809180",
+            "date_last_used": "0",
+            "guid": "7b98dda9-f97a-4f21-bb8b-1ef169b237b7",
+            "id": "21",
+            "name": "Course: Computer Vision",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://lmsspada.kemdikbud.go.id/course/view.php?id=3721"
+         }, {
+            "date_added": "13340659275728100",
+            "date_last_used": "0",
+            "guid": "772a4f50-a014-4ce6-86bc-caff4dcdd55c",
+            "id": "22",
+            "name": "sign-up-page-freebie-c7.jpg (800×600)",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://cdn.psdrepo.com/images/2x/sign-up-page-freebie-c7.jpg"
+         }, {
+            "date_added": "13340777222311157",
+            "date_last_used": "13342692159413119",
+            "guid": "be798cca-43a5-41f8-a431-4e4cd1c03c11",
+            "id": "24",
+            "name": "Wokwi - Online ESP32, STM32, Arduino Simulator",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://wokwi.com/"
+         }, {
+            "date_added": "13341838431796404",
+            "date_last_used": "0",
+            "guid": "76aa4301-b4c8-48bf-a4e5-4584e0fa04e7",
+            "id": "25",
+            "name": "icon flutter",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://fonts.google.com/icons?icon.query=control"
+         }, {
+            "date_added": "13342251893525331",
+            "date_last_used": "0",
+            "guid": "c8b4aa75-f07f-4dc7-b307-8118896b5222",
+            "id": "26",
+            "name": "Flutter Component Library",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://fluttercomponentlibrary.com/"
+         }, {
+            "date_added": "13342958784480571",
+            "date_last_used": "0",
+            "guid": "0241fbae-cd66-41a6-b18b-8e01bdbb1bf7",
+            "id": "8",
+            "name": "Agoda",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://s3.amazonaws.com/amundsen/redirect/19q2/agoda.html?utm_source=win32&utm_medium=favorite"
+         }, {
+            "date_added": "13342958784474560",
+            "date_last_used": "0",
+            "guid": "075e68d3-8aca-41a5-8298-ceacf4aa5050",
+            "id": "7",
+            "name": "Amazon",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://s3.amazonaws.com/amundsen/redirect/19q2/amazon.html?utm_source=win32&utm_medium=favorite"
+         }, {
+            "date_added": "13342664562958403",
+            "date_last_used": "13347347110913221",
+            "guid": "2005a2e7-d951-46d1-8084-48d5a8ab54f6",
+            "id": "27",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Deep Learning for Batik Classification in Python with CNN | by Cendekia Luthfieta NZ | Medium",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://medium.com/@cendekialnazalia/deep-learning-for-batik-classification-in-python-with-cnn-7bd3eb76f22"
+         }, {
+            "date_added": "13343067252379959",
+            "date_last_used": "0",
+            "guid": "0d05134c-bdd9-4ac9-925c-289d42fed1b1",
+            "id": "36",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Material Symbols and Icons - Google Fonts",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://fonts.google.com/icons"
+         }, {
+            "date_added": "13343477132286503",
+            "date_last_used": "13343494322002065",
+            "guid": "0426d88d-5b68-4fd5-bc4c-8dc4f7f0c575",
+            "id": "35",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "GitHub - imaNNeo/fl_chart: FL Chart is a highly customizable Flutter chart library that supports Line Chart, Bar Chart, Pie Chart, Scatter Chart, and Radar Chart.",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://github.com/imaNNeo/fl_chart"
+         }, {
+            "date_added": "13344840504361514",
+            "date_last_used": "13348241302060949",
+            "guid": "f7fe2ede-7442-46ec-a722-0d56c5f0f58c",
+            "id": "34",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "IFB-307 DATAMINING DAN INFORMATION RETRIEVAL 2023 KELAS EE",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://classroom.google.com/u/0/c/NjIzOTYxNjk5MTY2"
+         }, {
+            "date_added": "13345751145207679",
+            "date_last_used": "0",
+            "guid": "6b079983-b03c-4faa-a74c-4286871190e9",
+            "id": "37",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "DS18B20 Temperature Probe With LCD : 6 Steps - Instructables",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.instructables.com/DS18B20-temperature-probe-with-LCD/"
+         } ],
+         "date_added": "13342958784249629",
+         "date_last_used": "0",
+         "date_modified": "13348857961167510",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13346520918512911",
+            "date_last_used": "0",
+            "guid": "19c27961-5926-4a05-a8da-5515e38ad7cc",
+            "id": "43",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "The SQL Murder Mystery",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://mystery.knightlab.com/"
+         }, {
+            "date_added": "13346520967025080",
+            "date_last_used": "0",
+            "guid": "1f7fc779-9d4a-4267-bb85-dd2d319f8f9b",
+            "id": "38",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Pulau SQL",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://sql-island.informatik.uni-kl.de/"
+         }, {
+            "date_added": "13346521031168866",
+            "date_last_used": "0",
+            "guid": "c06ba774-ad86-4499-99bd-1161201501d4",
+            "id": "42",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "The Schemaverse",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.schemaverse.com/"
+         }, {
+            "date_added": "13346521071281988",
+            "date_last_used": "0",
+            "guid": "5d1d0d24-cbe0-4b0a-8960-5e0e4d379990",
+            "id": "39",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Learn SQL while solving crimes! SQL Police Department",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://sqlpd.com/"
+         }, {
+            "date_added": "13347387686609843",
+            "date_last_used": "0",
+            "guid": "76ccf6db-c402-4c86-83f6-5e8c22795b9c",
+            "id": "40",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Pma",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://cpanel.infinityfree.com/panel/indexpl.php?option=pma&ttt=776627963145224192"
+         }, {
+            "date_added": "13347387712103788",
+            "date_last_used": "0",
+            "guid": "bbc59885-9e86-47b3-830d-de39000df64e",
+            "id": "41",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "filemanager.ai",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://filemanager.ai/new/#"
+         } ],
+         "date_added": "13342958784249630",
+         "date_last_used": "0",
+         "date_modified": "13347387712103788",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13342958784249631",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCIo6ONWMAQAAEgAgASoYbTdncFBkS3FsdFp0RjRQRVp4R3pOUT09oAYMEqcBCCsSogEKHElvVzhBQlg3Ti9kUDM4WEdXNkxWYzlEc0I0RT0SJDE5YzI3OTYxLTU5MjYtNGEwNS1hOGRhLTU1MTVlMzhhZDdjYxgAIAAoADCXxLTPxDE46pC0z8QxQOqQtM/EMUocSTF5alZGWTZQZE1rRCtFeHBaRXJzM3lSWnhrPVoeIhxYZ2MwQkViR2VaM3ZRSXFEMHdCM0pyUlk4M3c9Ze34gMwSqQEIJRKkAQocK29GNDRIalVFdlhqSWNuWE80WWh5VEk0eDhzPRIkNmIwNzk5ODMtYjAzYy00ZmFhLWE3NGMtNDI4Njg3MTE5MGU5GAAgACgAMPzwrODBMTi886zgwTFAvPOs4MExShxOUnAycis2cnNPZ2xHODJUQ1N4Kzh6SVRwWkk9WiAiHv/9VkJ3RDRsSE5QNXFZSzNXeWhBQmluYjN2amFjPWWSPUNfEqgBCCYSowEKHGt3NkRucHNaM3pqKzQyVnMramh0OU1IMzYvOD0SJDFmN2ZjNzc5LTlkNGEtNDI2Ny1iYjg1LWRkMmQzMTlmOGY5YhgAIAAoADDdibfPxDE4gIy3z8QxQICMt8/EMUocODhTU0FLNExKN3ZBWUpzWmYvQTE3L3RCNElJPVofIh2sMU81QUdFR2FsOFFQNnRSbm5lVjNlVmZCRndjPWWFwEHEEqgBCBMSowEKHDlIMi9TVGVlRFpHd0hIVWdIM0llS1Y5bXJTdz0SJGNkNTY0MjU5LTM5MGItNGU4Ni05YzMyLTJjY2ZjYjc3MzlmMxgAIAAoADCw5Jj/qjE4r+iY/6oxQK/omP+qMUocdjVXRzJ1QVBFbExTdTZUUHM5Zis4T3JZRmU4PVofIh23Vm1DSlhuUzRkRkFTZWgzQmp6S2dTTklRNlBZPWUAAAAAEqkBCCMSpAEKHFd4eDBaMUFPcm5UQ3dHQVk4T2U4bnM1am0ydz0SJDA0MjZkODhkLTViNjgtNGZkNS1iYzRjLThkYzRmN2YwYzU3NRgAIAAoADDqnraIyzE4naCCpLkxQJ2ggqS5MUocMFF1VFNvRjJLdkx4RDhteDJTOTk0ckVQbG9VPVogIh7/90ozQVVEa3Z1OEQ4OTFnc01aMG9vL3VIU1hyND1lwKUouhKpAQgaEqQBChxjWStHNkZhdTlzMkN4OUY1cUxUUlRWWmhzcFk9EiRjOGI0YWE3NS1mMDdmLTRkYzctYjMwNy04MTE4ODk2YjUyMjIYACACKAIwxaP+rLcxOJ3N49u0MUCz9v2stzFKHE1HUWM5ZEpFMm1oVmExbVFTMzBnci9wVjAydz1aICIe/7xIT05DdGoxUW5pQWczSFFHaHNZa0F5dDhHN1U9ZR4fRFYSqQEIIhKkAQocS090eUQrTGNScDRFeFNsb0s3QXZiTFBsUmh3PRIkZjdmZTJlZGUtNzQ0Mi00NmVjLWE3MjItMGQ1NmM1ZjBmNThjGAAgACgAMIWW2/nMMTjQ6Y+uvjFA0OmPrr4xShwrd1FEYnNiRUx6VUlFbElVUDByTUJ0U0I2Tlk9WiAiHv/7TTRtZHIrMW9zMkY0OEx4cWxoeVBEQmJXM200PWWejtBBEqcBCBISogEKHEFCKzlSY05MbHNGS2JYSlBLejJxOER5ZEpuYz0SJGJjMDNkMTI1LTI4MDAtNGI1ZC05ZWU2LWI1NDY3NGM1MmYzORgAIAAoADC564TQmjE4jvCE0JoxQI7whNCaMUocTVArQ1pCcVNQSFF6ekVROEZlM1Z6UG5Scm9BPVoeIhx3UjJQZnFnTXRKVC80N3V6MGlkUGYrR0I5Zjg9ZQAAAAASiQEIAxKEAQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRIkYjZlODY3MGYtNDE3OS01OWViLWJkYjItYTBmOTM3ZDE3ODQ5GAAgACgAMLrSzrP+MDjx1c6z/jBA8dXOs/4wShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAABKoAQgpEqMBChxJVit6VzVDWEliQTBUUkRrajd4RW5STHZ5aHM9EiRiYmM1OTg4NS05ZTg2LTQ3YjMtODMwZC1kZTM5MDAwZGY2NGUYACAAKAAwldrX7ccxOJrd1+3HMUCa3dftxzFKHDhpOFcwZUxZMGdOQUFMaVQ4RXg3L1NmR05wST1aHyId+nE2c2lRL2tGWGFSL0ZSWjlxYmd6WXlLWFhrYz1l8avp1BKoAQgqEqMBChx5Q003VjBHaWVDUmFqUkFWUzVxTU11QTE4WGM9EiRjMDZiYTc3NC1hZDg2LTQ0OTktOTliZC0xMTYxMjAxNTAxZDQYACAAKAAwg/+6z8QxOOKAu8/EMUDigLvPxDFKHEVuVmJ2UXZXODNMWE1JVFVxYWNUK0crNm1BND1aHyId1ml3QjZIRXprcGJmQnRacmxLVnNXMDdVckdwOD1lc92z5RKnAQgREqIBChw5cjhsRjBJRUk0RkZ3cEVGcitaMnROOFVkdTA9EiQxYjhhZmI3Ni0wYTc5LTRjYWItOTc5Yy0xOTQ5ZWJmNjhhYzcYACAAKAAwuOuE0JoxOPfvhNCaMUD374TQmjFKHDJYbkF2SzZZR1ZEdGZDdm9TVmZmRGVFRDJiQT1aHiIcb3NkUTJWMTlRUDNaaTJ4QkJDN0wzakFqb0VrPWUAAAAAEokBCAIShAEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SJGRlZjFlMTExLThlZWItNTI2My1hYTM0LTcyZDE1YTcxZDA3YRgAIAAoADC10s6z/jA47dTOs/4wQO3UzrP+MEocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAAASiQEIARKEAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRIkNjEwODgzZjMtNWRkMS01MDhhLThhMjMtODU0ZWIxMzQzZjI3GAAgACgAMLTSzrP+MDjQ1M6z/jBA0NTOs/4wShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAABKoAQgYEqMBChx5bDRPRUdEekxqUS82cERWMWh1YlJ3OU05RHc9EiRiZTc5OGNjYS00M2E1LTQxZjgtYTQzMS00ZTRjZDFjMDNjMTEYACACKAIwqdX29cYxONfTzJyvMUCp1fb1xjFKHEVWYjgyMFlOdDlhY0NERGJQbjVCUmhxQS92ST1aHyId/2tUaGRuVE9nZkgyWldwbVV2SlpFejQxR0tpTT1ltF/WlBKoAQgVEqMBChw0R0xhU2Jlelk4NWlnVXJRQ0IzeW9XMWMyUU09EiQ3Yjk4ZGRhOS1mOTdhLTRmMjEtYmI4Yi0xZWYxNjliMjM3YjcYACACKAIwxKP+rLcxOOuv2/GrMUCy9v2stzFKHFlNTnJGOVprdndWZ2h4NTJaWk5zMzhOSW0vWT1aHyId7W5qN1RSZnZjWGp1WWhhenJMNzdxVTV2UUI4Yz1l22kT4BKoAQgWEqMBChx3WFFFQVdkSTY5RVZUWnlMa3E0VGYxcDlVaFk9EiQ3NzJhNGY1MC1hMDE0LTRjZTYtODZiYy1jYWZmNGRjZGQ1NWMYACAAKAAw/+ut5K4xOJ/treSuMUCf7a3krjFKHGN2SWZPZmY0LzV5aHVsS081R2E2Q2Z2eGdOZz1aHyId/jc0ZjVnM0wwejdJSnppZUM3eURQNDJKdDc4az1lAAAAABKoAQgoEqMBChxEb3ZSSlFQM3duWEwzYUErNW10VkJQNzZuckE9EiQ3NmNjZjZkYi1jNDAyLTRjODYtODNmNi01ZThjMjI3OTViOWMYACAAKAAwltrX7ccxOM3d1+3HMUDN3dftxzFKHHB5dVBHZytKaVJFRHJRNytDRFBiQTZSQ3E2ST1aHyId9XBhUVBObTk1WUxFSWNGU0dickgrc2V5eGRQMD1lo7/INhKoAQgnEqMBChx4UlVFTDVlMTk0Q1pBQ21rQTZqNWFneGRtNFU9EiQ1ZDFkMGQyNC1jYmUwLTRiMGEtODk2MC01ZTBlNGQzNzk5OTAYACAAKAAwxri9z8QxOOq6vc/EMUDqur3PxDFKHDl4TVZtc0FWQi9KM1NuaVl3czdHdWxCME9PRT1aHyId62xPaHhYMldoL21XRXc2WXVOV2s3a3BSeU96WT1lj+3x0xKpAQgkEqQBChw5eGJyNWtGZDlUNkVWK3NNd2l3dE1Ta1ZnQjA9EiQwZDA1MTM0Yy1iZGQ5LTRhYzktOTI1Yy0yODlkNDJmZWQxYjEYACAAKAAw1obJ4LcxOI2IyeC3MUCNiMngtzFKHHBFWnVnZTloNHcybjRmRXBQZHpNVEFkZ1pubz1aICIe/+83K1orc2RBK2hmc3JLVGI0Sm1RZ0RINGJPSk09ZQdoU5sSqAEIGRKjAQocZHpNcGFCdnJERVpqRkVkcFJTYWpJR1A5TU9nPRIkNzZhYTQzMDEtYjRjOC00OGJmLWE0ZTUtNDU4NGUwZmEwNGU3GAAgAigCMMij/qy3MTiJ6s+WszFAs/b9rLcxShxVLy9QS3JvOGttS29KaElJVnFGbnErODRIL3c9Wh8iHf95TmtCcjVDc1VjcGxpOUZGYmNVMitpNXVNZkk9ZQdoU5sSqAEIFBKjAQocUW5oWGdONVpNNHpVTDNXOXI1aHQ2NnVua3owPRIkYTNkNTI5NjUtOWYyYS00NzVmLThjMjUtMzFlYTc1YzExZWIwGAAgAigCMMej/qy3MTic07ieqzFAsfb9rLcxShxYVHpSREJsK2V1amRsRHNBOVZ5VG5HUlBQL3M9Wh8iHdtRRnhqOWsyaFNoVTNra1l1VHJKbXV5RzNoL3M9ZV2qNCISqQEIGxKkAQocUjZOMkRnelY3V1QxbFFUR3E1SUJNSk9nY3hZPRIkMjAwNWEyZTctZDk1MS00NmQxLTgwODQtNDhkNWE4YWI1NGY2GAAgAigCMMedr9nHMTiOv7uhtjFAx52v2ccxShxKKzBhSmY2LzM0d0xwQTR1M1IyZnFZR3VyQ289WiAiHv/eb2RFRjFBSGpnSU00Q2Jocmw3UHc3bDJtdGdFPWWCzkBSMAA4AA==",
+   "version": 1
+}
