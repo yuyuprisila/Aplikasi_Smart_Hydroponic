@@ -1,4 +1,4 @@
-#Fri Jan 12 09:47:05 WIB 2024
+#Mon Jan 15 04:14:45 WIB 2024
 base.0=D\:\\asus\\Kuliah_Yuren\\semester5\\pem_Mobile\\prak_IOT-revisi - Copy\\prak_IOT\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

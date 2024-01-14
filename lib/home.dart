@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:pemrograman_mobile/halaman_login.dart';
-import 'package:pemrograman_mobile/header_drawer.dart';
-import 'package:pemrograman_mobile/info.dart';
-import 'package:pemrograman_mobile/Halaman_KualitasAir.dart';
-import 'package:pemrograman_mobile/Halaman_Aliran.dart';
-import 'package:pemrograman_mobile/Halaman_Suhu.dart';
+import 'package:Hydroponic/halaman_login.dart';
+import 'package:Hydroponic/header_drawer.dart';
+import 'package:Hydroponic/info.dart';
+import 'package:Hydroponic/Halaman_KualitasAir.dart';
+import 'package:Hydroponic/Halaman_Aliran.dart';
+import 'package:Hydroponic/Halaman_Suhu.dart';
 import 'package:mqtt_client/mqtt_client.dart';
 import 'package:mqtt_client/mqtt_server_client.dart';
 
@@ -58,7 +58,7 @@ class _HomePageState extends State<HomePage> {
   }
 
   void subscribeToTopic(String topic) {
-    if (client != null && client.connectionStatus?.state == MqttConnectionState.connected) {
+    if (client.connectionStatus?.state == MqttConnectionState.connected) {
       client.subscribe(topic, MqttQos.atMostOnce);
       client.updates?.listen((List<MqttReceivedMessage<MqttMessage>> c) {
         if (c.isNotEmpty) {

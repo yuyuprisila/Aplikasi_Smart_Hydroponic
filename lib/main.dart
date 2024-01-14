@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:pemrograman_mobile/splashscreen.dart';
+import 'package:Hydroponic/splashscreen.dart';
 
 void main() {
   runApp(const MyApp());
@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demo',
+      title: 'Smart Hydroponic',
       home: Splashscreen()
     );
   }

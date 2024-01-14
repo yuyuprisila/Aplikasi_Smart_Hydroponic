@@ -1,12 +1,12 @@
 import 'dart:convert';
 
 import 'package:flutter/material.dart';
-import 'package:pemrograman_mobile/LineChart_Kualitasair.dart';
-import 'package:pemrograman_mobile/chart_kualitasair.dart';
-import 'package:pemrograman_mobile/model/turbiavg.api.dart';
-import 'package:pemrograman_mobile/model/turbimaks.api.dart';
+import 'package:Hydroponic/LineChart_Kualitasair.dart';
+import 'package:Hydroponic/chart_kualitasair.dart';
+import 'package:Hydroponic/model/turbiavg.api.dart';
+import 'package:Hydroponic/model/turbimaks.api.dart';
 import 'package:http/http.dart' as http;
-import 'package:pemrograman_mobile/model/turbimin.api.dart';
+import 'package:Hydroponic/model/turbimin.api.dart';
 import 'package:mqtt_client/mqtt_client.dart';
 import 'package:mqtt_client/mqtt_server_client.dart';
 
@@ -61,7 +61,7 @@ class _ChartKualitasAState extends State<ChartkualitasA> {
   }
 
   void subscribeToTopic(String topic) {
-    if (client != null && client.connectionStatus?.state == MqttConnectionState.connected) {
+    if (client.connectionStatus?.state == MqttConnectionState.connected) {
       client.subscribe(topic, MqttQos.atMostOnce);
       client.updates?.listen((List<MqttReceivedMessage<MqttMessage>> c) {
         if (c.isNotEmpty) {

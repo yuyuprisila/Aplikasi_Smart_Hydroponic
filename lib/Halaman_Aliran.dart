@@ -53,7 +53,7 @@ class _AliranAirState extends State<AliranAir> {
   }
 
   void subscribeToTopic(String topic) {
-    if (client != null && client.connectionStatus?.state == MqttConnectionState.connected) {
+    if (client.connectionStatus?.state == MqttConnectionState.connected) {
       client.subscribe(topic, MqttQos.atMostOnce);
       client.updates?.listen((List<MqttReceivedMessage<MqttMessage>> c) {
         if (c.isNotEmpty) {

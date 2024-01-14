@@ -2,6 +2,18 @@
   "configVersion": 2,
   "packages": [
     {
+      "name": "archive",
+      "rootUri": "file:///C:/Users/Yuren/AppData/Local/Pub/Cache/hosted/pub.dev/archive-3.4.10",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "args",
+      "rootUri": "file:///C:/Users/Yuren/AppData/Local/Pub/Cache/hosted/pub.dev/args-2.4.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
       "name": "async",
       "rootUri": "file:///C:/Users/Yuren/AppData/Local/Pub/Cache/hosted/pub.dev/async-2.11.0",
       "packageUri": "lib/",
@@ -28,6 +40,12 @@
     {
       "name": "collection",
       "rootUri": "file:///C:/Users/Yuren/AppData/Local/Pub/Cache/hosted/pub.dev/collection-1.17.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "convert",
+      "rootUri": "file:///C:/Users/Yuren/AppData/Local/Pub/Cache/hosted/pub.dev/convert-3.1.1",
       "packageUri": "lib/",
       "languageVersion": "2.18"
     },
@@ -74,6 +92,12 @@
       "languageVersion": "3.0"
     },
     {
+      "name": "flutter_launcher_icons",
+      "rootUri": "file:///C:/Users/Yuren/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_launcher_icons-0.9.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "flutter_lints",
       "rootUri": "file:///C:/Users/Yuren/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_lints-2.0.3",
       "packageUri": "lib/",
@@ -96,6 +120,18 @@
       "rootUri": "file:///C:/Users/Yuren/AppData/Local/Pub/Cache/hosted/pub.dev/http_parser-4.0.2",
       "packageUri": "lib/",
       "languageVersion": "2.12"
+    },
+    {
+      "name": "image",
+      "rootUri": "file:///C:/Users/Yuren/AppData/Local/Pub/Cache/hosted/pub.dev/image-3.3.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.15"
+    },
+    {
+      "name": "js",
+      "rootUri": "file:///C:/Users/Yuren/AppData/Local/Pub/Cache/hosted/pub.dev/js-0.6.7",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
     },
     {
       "name": "lints",
@@ -138,6 +174,18 @@
       "rootUri": "file:///C:/Users/Yuren/AppData/Local/Pub/Cache/hosted/pub.dev/path-1.8.3",
       "packageUri": "lib/",
       "languageVersion": "2.12"
+    },
+    {
+      "name": "petitparser",
+      "rootUri": "file:///C:/Users/Yuren/AppData/Local/Pub/Cache/hosted/pub.dev/petitparser-5.4.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "pointycastle",
+      "rootUri": "file:///C:/Users/Yuren/AppData/Local/Pub/Cache/hosted/pub.dev/pointycastle-3.7.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
     },
     {
       "name": "provider",
@@ -206,13 +254,25 @@
       "languageVersion": "3.1"
     },
     {
-      "name": "pemrograman_mobile",
+      "name": "xml",
+      "rootUri": "file:///C:/Users/Yuren/AppData/Local/Pub/Cache/hosted/pub.dev/xml-6.3.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "yaml",
+      "rootUri": "file:///C:/Users/Yuren/AppData/Local/Pub/Cache/hosted/pub.dev/yaml-3.1.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "Hydroponic",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "3.1"
     }
   ],
-  "generated": "2024-01-12T02:42:52.758457Z",
+  "generated": "2024-01-14T20:47:14.627290Z",
   "generator": "pub",
   "generatorVersion": "3.1.2"
 }

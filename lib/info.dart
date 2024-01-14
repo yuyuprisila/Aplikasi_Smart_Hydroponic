@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:pemrograman_mobile/navigationbar.dart';
-import 'package:pemrograman_mobile/profilDeveloper.dart';
+import 'package:Hydroponic/navigationbar.dart';
+import 'package:Hydroponic/profilDeveloper.dart';
 
 class infoapp extends StatefulWidget {
   const infoapp({super.key});

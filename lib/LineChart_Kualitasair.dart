@@ -1,6 +1,6 @@
 import 'package:fl_chart/fl_chart.dart';
 import 'package:flutter/material.dart';
-import 'package:pemrograman_mobile/chart_kualitasair.dart';
+import 'package:Hydroponic/chart_kualitasair.dart';
 
 // ignore: must_be_immutable
 class LineChartKualitasWidget extends StatelessWidget {

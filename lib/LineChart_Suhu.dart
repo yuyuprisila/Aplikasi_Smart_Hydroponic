@@ -1,6 +1,6 @@
 import 'package:fl_chart/fl_chart.dart';
 import 'package:flutter/material.dart';
-import 'package:pemrograman_mobile/chart_suhu.dart';
+import 'package:Hydroponic/chart_suhu.dart';
 
 // ignore: must_be_immutable
 class LineChartWidget extends StatelessWidget {

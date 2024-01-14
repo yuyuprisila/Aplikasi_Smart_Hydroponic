@@ -13,8 +13,8 @@
 13         to allow setting breakpoints, to provide hot reload, etc.
 14    -->
 15    <uses-permission android:name="android.permission.INTERNET" />
-15-->D:\asus\Kuliah_Yuren\semester5\pem_Mobile\prak_IOT-revisi - Copy\prak_IOT\android\app\src\debug\AndroidManifest.xml:6:5-66
-15-->D:\asus\Kuliah_Yuren\semester5\pem_Mobile\prak_IOT-revisi - Copy\prak_IOT\android\app\src\debug\AndroidManifest.xml:6:22-64
+15-->D:\asus\Kuliah_Yuren\semester5\pem_Mobile\prak_IOT-revisi - Copy\prak_IOT\android\app\src\main\AndroidManifest.xml:2:5-67
+15-->D:\asus\Kuliah_Yuren\semester5\pem_Mobile\prak_IOT-revisi - Copy\prak_IOT\android\app\src\main\AndroidManifest.xml:2:22-64
 16
 17    <application
 18        android:name="android.app.Application"
@@ -22,7 +22,7 @@
 19-->[androidx.core:core:1.6.0] C:\Users\Yuren\.gradle\caches\transforms-3\c0c55a33fdc5046d771f9988de5ec071\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
 20        android:debuggable="true"
 21        android:icon="@mipmap/ic_launcher"
-22        android:label="pemrograman_mobile" >
+22        android:label="Smart Hydroponic" >
 23        <activity
 24            android:name="com.example.pemrograman_mobile.MainActivity"
 25            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"

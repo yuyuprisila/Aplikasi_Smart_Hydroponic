@@ -1,6 +1,6 @@
 import 'dart:async';
 import 'package:flutter/material.dart';
-import 'package:pemrograman_mobile/halaman_awal.dart';
+import 'package:Hydroponic/halaman_awal.dart';
 
 class Splashscreen extends StatefulWidget {
   const Splashscreen({super.key});
@@ -14,8 +14,9 @@ class _SplashScreenState extends State<Splashscreen>{
   void initState(){
     super.initState();
     Timer(const Duration(seconds: 4), () { 
-     Navigator.of(context) 
-     .pushReplacement(MaterialPageRoute(builder: (_) => halAwalState()));
+      print("bisa ga?");
+     Navigator.of(context).pushReplacement(MaterialPageRoute(builder: (_) => halAwalState()));
+     print("kokgabisa?");
     });
   }
   @override

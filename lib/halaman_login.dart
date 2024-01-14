@@ -1,8 +1,8 @@
 // halaman pertama
 import 'package:flutter/material.dart';
-import 'package:pemrograman_mobile/halaman_register.dart';
-import 'package:pemrograman_mobile/navigationbar.dart';
-// import 'package:pemrograman_mobile/home1.dart';
+import 'package:Hydroponic/halaman_register.dart';
+import 'package:Hydroponic/navigationbar.dart';
+// import 'package:Hydroponic/home1.dart';
 import 'package:http/http.dart' as http;
 import 'dart:convert';
 
@@ -29,6 +29,7 @@ class _HalamanLogin extends State<Login> {
     if (response.statusCode == 200) {
       final List<dynamic> users = json.decode(response.body);
 
+      // ignore: unused_local_variable
       bool usernameNotFound = false; // Tambahkan variabel penanda
       // Periksa kredensial
       for (var user in users) {
